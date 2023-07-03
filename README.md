@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakeshoemaker
-- 👀 I’m interested in rust neovim, and making cool software
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on all things web assembly or neovim related
+- 👀 I’m interested in rust, go, neovim, and making cool software
+- 🌱 I’m currently learning rust and go
+- 💞️ I’m looking to collaborate on anything involving backend programming :) 
 - 📫 How to reach me: jakeshoe3@gmail.com
 
 <!---
