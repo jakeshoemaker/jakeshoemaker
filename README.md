@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @jakeshoemaker
-- 👀 I’m interested in rust, go, neovim, and making cool software
-- 🌱 I’m currently learning rust and go
-- 💞️ I’m looking to collaborate on anything involving backend programming :) 
-- 📫 How to reach me: jakeshoe3@gmail.com
+## Yo! I'm @jakeshoemaker 🤠
+
+### I like making cool stuff & learning new things
+
+### What I'm currently learning 📚
+- Rust 🦀 
+- Nix ❄️ 
+- Gleam ✨
+
+### Get in touch 📫
+```rust 
+let email = ["jakeshoe3", "gmail", "com"]
+    .join(&[" [at] ", " [dot] "][..]);
+```
 
 <!---
 jakeshoemaker/jakeshoemaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
