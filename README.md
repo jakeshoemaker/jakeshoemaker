@@ -5,7 +5,7 @@
 ### What I'm currently learning 📚
 - Rust 🦀 
 - Nix ❄️ 
-- Gleam ✨
+- Elixir ✨
 
 ### Get in touch 📫
 ```rust 
