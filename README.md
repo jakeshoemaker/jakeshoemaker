@@ -6,6 +6,7 @@
 - Rust 🦀 
 - Nix ❄️ 
 - Elixir ✨
+- Kubernetes 🚢
 
 ### Get in touch 📫
 ```rust 
